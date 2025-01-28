@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Otchugash</h1>
 <h3 align="center">Currently studying at Information systems and technologies, RTU MIREA, additionally studying at School21 by Sber</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
